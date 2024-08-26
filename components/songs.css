@@ -1,0 +1,25 @@
+#search{
+    width: 400px;
+    height: 35px;
+
+}
+
+#heading2{
+    visibility: hidden;
+    font-size: 0px;
+}
+#heading{
+    visibility: visible;
+    font-size: 18px;
+}
+#box-container{
+    display: flex;
+    width: 450px;
+    align-items: center;
+    justify-content: center;
+}
+#box-container>img{
+    /* width: 20px; */
+    height: 40px;
+    visibility: hidden;
+}
